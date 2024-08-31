@@ -1,4 +1,4 @@
-Gender= print("Enter the Biological Gender as (Male or Female): ")
+Gender= input("Enter the Biological Gender as (Male or Female): ")
 Hemoglobin= float(input("Enter the Hemoglobin in g/l: "))
 
 if Gender== "Male":
